@@ -1,0 +1,1 @@
+This repo will hold all my exercises for the clustering module at CodeUp.
